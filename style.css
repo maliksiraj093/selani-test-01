@@ -1,0 +1,55 @@
+.body{
+    background-color: yellow;
+}
+#parent{
+    background-color: yellow;
+}
+
+
+
+
+
+.navbar{
+background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+    height: 140px;
+    width: 100%;
+    text-align:center ;
+    position: fixed;
+    font-size: bolder;
+    bottom: 25px;
+
+}
+.text{
+    position: fixed;
+    top: 100px;
+    right: 100px;
+    top: 35px;
+}
+.dabba{
+    border: 1px black solid;
+    padding: 2px;
+}
+.heading{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.dabba1{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    width: 150px;
+}
+.dabba2{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    width: 150px;
+}
+.image{
+    height: auto ;
+    width: auto ;
+}
+
